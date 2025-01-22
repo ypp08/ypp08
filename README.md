@@ -6,5 +6,5 @@
 - 📍  Based in Nanjing, China.
 - 📧  [lwu914@icloud.com](mailto:lwu914#icloud.com).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexw914&layout=compact)](https://github.com/alexw914/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ypp08&layout=compact)](https://github.com/ypp08/github-readme-stats)
 <br/>
